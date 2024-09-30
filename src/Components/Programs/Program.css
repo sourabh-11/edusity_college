@@ -40,3 +40,19 @@
     padding-top: 0;
    
 }
+
+
+
+
+
+
+@media (max-width: 640px){
+    .programs{
+        flex-direction: column;
+
+    }
+    .program{
+        flex-basis: 100%;
+        margin: 20px;
+    }
+}
